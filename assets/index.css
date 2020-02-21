@@ -18,7 +18,7 @@ header {
   color: white;
 }
 
-header > h1 {
+header>h1 {
   font-weight: normal;
   font-style: italic;
 }
@@ -71,6 +71,7 @@ main {
 .ads__title {
   margin: 0;
 }
+
 .ads__body {
   margin: 0;
 }
