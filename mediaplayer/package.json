@@ -1,0 +1,16 @@
+{
+  "name": "@miguelangelmp/platzi_mediaplayer",
+  "version": "1.0.0",
+  "description": "Proyecto del Curso Profesional de JavaScript de la Escuela de JavaScript de Platzi.",
+  "license": "MIT",
+  "author": "Miguel Ángel Muñoz Pozos <mmunozpozos@gmail.com>",
+  "main": "lib/MediaPlayer.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "typescript": "^3.8.2"
+  },
+  "dependencies": {}
+}
